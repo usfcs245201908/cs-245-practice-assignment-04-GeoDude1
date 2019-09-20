@@ -13,4 +13,4 @@ public class SelectionSort implements SortingAlgorithm
 				a[i]=gang;
 			}
 		}
-	}s
+	}
